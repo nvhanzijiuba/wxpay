@@ -1,7 +1,7 @@
-appid: wx7a844921a0e94dff
-partner: 1516444171
-partnerkey: A4578ACE384017C997F12D68B77UNHGG
-appsecret: 8426bdb68e954837e431862b7e459ca6
+appid: XXXXXXX  #此处是appid
+partner: XXXXXXXXX  #此处是商户号
+partnerkey: XXXXXXXX   #此处是商户平台的key
+appsecret: XXXXXXXXX  #此处是商户平台的秘钥
 notifyurl: http://a31ef7db.ngrok.io/WeChatPay/WeChatPayNotify
 access_token_url: https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=APPID&secret=APPSECRET
 grant_type: authorization_code
