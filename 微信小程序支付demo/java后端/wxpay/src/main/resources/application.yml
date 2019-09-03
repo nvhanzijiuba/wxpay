@@ -1,0 +1,10 @@
+appid: XXXXXXXXXXX   #appid
+partner: XXXXXXXXXXX   #商户号
+partnerkey: XXXXXXXXXXX   #商户平台的key
+appsecret:  XXXXXXXXXXX   #商户平台的秘钥
+notifyurl: http://a31ef7db.ngrok.io/WeChatPay/WeChatPayNotify
+access_token_url: https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=APPID&secret=APPSECRET
+grant_type: authorization_code
+server:
+  port: 8011
+  address: 0.0.0.0
